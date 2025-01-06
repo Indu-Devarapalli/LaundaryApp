@@ -69,7 +69,7 @@ npx react-native run-ios
 ```
 ## App Features
 ### Authentication
-* **Register**: Users can create a new account by providing a username, email, and password. Firebase Authentication ensures secure credential storage and validation.
+* **Register**: Users can create a new account by providing a email, and password. Firebase Authentication ensures secure credential storage and validation.
 * **Login**: Existing users can log in securely using their registered credentials.
 ### Laundry List
 Users are redirected to a laundry list page where they can select:
@@ -79,7 +79,7 @@ Users are redirected to a laundry list page where they can select:
 ### Laundry Service
 * **Price Calculation**: Based on the selected category, clothes type, and services, the price is displayed for the user.
 * **Address and Time Selection**: Users can add their address, and select pick-up and delivery dates and times.
-* **Place Orde**r: After selecting the service and providing the required details, users can place an order.
+* **Place Order**: After selecting the service and providing the required details, users can place an order.
 ### Firebase Integration
 * **User Authentication**: Firebase Authentication ensures secure login and registration.
 * **User Data Storage**: Firebase Firestore is used to store user login credentials, addresses, and orders.
