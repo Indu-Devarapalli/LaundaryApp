@@ -83,4 +83,7 @@ Users are redirected to a laundry list page where they can select:
 ### Firebase Integration
 * **User Authentication**: Firebase Authentication ensures secure login and registration.
 * **User Data Storage**: Firebase Firestore is used to store user login credentials, addresses, and orders.
+## Demo Video
+https://github.com/user-attachments/assets/02ee70fe-32cd-400b-bb9b-5ee47cfb04b3
+
 
